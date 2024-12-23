@@ -3,9 +3,9 @@ This project demonstrates a comprehensive Churn Analysis Pipeline for a telecom 
 
 # Key Features:
 
-ETL & Data Cleaning: Transformed and cleaned raw data in SQL Server for reliable analysis.
-Interactive Dashboards: Created actionable visualizations in Power BI, highlighting churn trends and key metrics.
-Machine Learning Model: Built a Random Forest Model in Python to predict churn with [insert accuracy]% accuracy.
-Industry Relevance: Techniques are applicable across industries such as retail, finance, and healthcare.
+## ETL & Data Cleaning: Transformed and cleaned raw data in SQL Server for reliable analysis.
+## Interactive Dashboards: Created actionable visualizations in Power BI, highlighting churn trends and key metrics.
+## Machine Learning Model: Built a Random Forest Model in Python to predict churn with [insert accuracy]% accuracy.
+## Industry Relevance: Techniques are applicable across industries such as retail, finance, and healthcare.
 
 # Tools & Technologies: SQL Server, Power BI, Python (Jupyter Notebook)
